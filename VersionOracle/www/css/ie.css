@@ -1,0 +1,31 @@
+/* 
+    Document   : ie
+    Created on : 23/03/2011, 11:50:49 AM
+    Author     : jorge
+    Description:
+        fix ie problems
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+#top #topMenu ul li a{
+ line-height: 1em;
+}
+
+#panelMenu li a{
+  
+    line-height: 1em;
+}
+
+#submit_btn{
+    
+   
+}
+
+p #error{
+    
+}
